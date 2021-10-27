@@ -7,6 +7,17 @@
   </a>
 </p>
 
+<h1 align="center"> 📊 Stats: </h1>
+<p align="center">
+  <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFrancaDev&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+  </a>
+  <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFrancaDev&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+  </a>
+  <br>
+</p>
+
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
