@@ -1,31 +1,24 @@
 <h1 align="center">Hello there 👋, I'm Vinicius França</h1>
 <h3 align="center">A senior software engineer from Brazil</h3>
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ViniciusFrancaDev&theme=monokai&column=8&no-frame=true&no-bg=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B">
-  </a>
-</p>
-
 <h1 align="center"> 📊 Stats: </h1>
 <p align="center">
   <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFrancaDev&show_icons=true&bg_color=0d1117&text_color=FFF&border_color=444" height="165">
+    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFrancaDev&show_icons=true&theme=monokai" height="165">
   </a>
   <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFrancaDev&layout=compact&bg_color=0d1117&text_color=FFF&border_color=444"  height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFrancaDev&layout=compact&theme=monokai" height="165">
   </a>
   <br>
+  <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
+    <img src="https://github-profile-trophy.vercel.app/?username=ViniciusFrancaDev&column=6&theme=monokai" />
+  </a>
 </p>
 
 <h1 align="center"> 🔥 Contributions: </h1>
 <p align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusFrancaDev&theme=react&background=0d1117&border=666">
-  </a>
-  <br>
-  <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">
-    <img src="https://activity-graph.herokuapp.com/graph?username=ViniciusFrancaDev&theme=react-dark&hide_border=true">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusFrancaDev&theme=monokai">
   </a>
 </p>
 
