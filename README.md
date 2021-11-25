@@ -4,10 +4,10 @@
 <h1 align="center"> 📊 Stats: </h1>
 <p align="center">
   <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=ViniciusFrancaDev&show_icons=true&theme=monokai" height="165">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusFrancaDev&show_icons=true&theme=monokai" height="165">
   </a>
   <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusFrancaDev&layout=compact&theme=monokai" height="165">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusFrancaDev&layout=compact&theme=monokai" height="165">
   </a>
   <br>
   <a href="https://github.com/ViniciusFrancaDev/github-readme-stats">
