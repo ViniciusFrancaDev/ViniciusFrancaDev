@@ -23,5 +23,4 @@
   <a href="https://git.io/streak-stats">
     <img src="http://github-readme-streak-stats.herokuapp.com?user=ViniciusFrancaDev&theme=monokai">
   </a>
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="ViniciusFrancaDev's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=ViniciusFrancaDev&theme=monokai" /></a>
 </p>
